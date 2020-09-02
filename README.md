@@ -29,6 +29,22 @@ after cloning the repo, install it with pip
 Now you can use this CLI tool through your command line. 
 
 **Usage:**     
+Usage: convertxmltocsv [OPTIONS] XML_FILE
+
+Options:     
+  -o, --output-dir PATH    Path to the output directory.      
+  -c, --column-based TEXT  'attr' for setting attributes as columns,     
+                           'tag' for setting tags as columns.     
+
+  -v, --value TEXT         'tag' for settting tag as a column value,     
+                           'text' for setting text as the column value,     
+                           'attr' for settting attrib for a column value     
+
+  -a, --attr TEXT          The attribute name that its value is going to be     
+                           the column names or values.     
+
+  --help                   Show this message and exit.     
+**Running the samples:**    
 sample1:      
 `convertxmltocsv samples/sample1.xml -c attr -v text -a name -o samples/`
 
@@ -37,5 +53,3 @@ sample2:
      
 sample3:      
 `convertxmltocsv samples/sample3.xml -c tag -v text -o samples/`
-
-3. Running the samples:
