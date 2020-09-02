@@ -23,12 +23,12 @@ sample2:
 sample3:    
 `python3 xmlutils/convert_xml_to_csv.py samples/sample3.xml -c tag -v text -o samples/`
 
-2. using pip
-after cloning the repo, install it with pip
-`pip install .`
+2. using pip       
+after cloning the repo, install it with pip     
+`pip install .`     
 Now you can use this CLI tool through your command line. 
 
-**Usage:**
+**Usage:**     
 sample1:      
 `convertxmltocsv samples/sample1.xml -c attr -v text -a name -o samples/`
 
