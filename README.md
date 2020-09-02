@@ -1,5 +1,4 @@
 # convertXMLtoCSV
-This project is under construction :)
 
 This is a simple tool to convert your xml file to csv file. This scripts uses [ElementTree](https://docs.python.org/3/library/xml.etree.elementtree.html). The medium post cooresponding to this library is also available. 
 
