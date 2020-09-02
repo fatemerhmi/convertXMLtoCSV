@@ -29,7 +29,8 @@ after cloning the repo, install it with pip
 Now you can use this CLI tool through your command line. 
 
 **Usage:**     
-```Usage: convertxmltocsv [OPTIONS] XML_FILE
+```
+Usage: convertxmltocsv [OPTIONS] XML_FILE
 
 Options:     
   -o, --output-dir PATH    Path to the output directory.      
