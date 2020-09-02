@@ -1,17 +1,14 @@
-<topics task="COVIDSearch 2020" batch="1">
-  <topic number="1">
-    <query>coronavirus origin</query>
-    <question>what is the origin of COVID-19</question>
-    <narrative>seeking range of information about the SARS-CoV-2 virus's origin, including its evolution, animal source, and first transmission into humans</narrative>
-  </topic>
-  <topic number="2">
-    <query>coronavirus response to weather changes</query>
-    <question>how does the coronavirus respond to changes in the weather</question>
-    <narrative>seeking range of information about the SARS-CoV-2 virus viability in different weather/climate conditions as well as information related to transmission of the virus in different climate conditions</narrative>
-  </topic>
-  <topic number="3">
-    <query>coronavirus immunity</query>
-    <question>will SARS-CoV2 infected people develop immunity? Is cross protection possible?</question>
-    <narrative>seeking studies of immunity developed due to infection with SARS-CoV2 or cross protection gained due to infection with other coronavirus types</narrative>
-  </topic>
-</topics>
+<data>
+    <items>
+        <col1>value1a</col1>
+        <col2>value2a</col2>
+    </items>
+    <items>
+        <col1>value1b</col1>
+        <col2>value2b</col2>
+    </items>
+    <items>
+        <col1>value1c</col1>
+        <col2>value2c</col2>
+    </items>
+</data>

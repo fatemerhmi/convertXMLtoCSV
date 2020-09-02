@@ -1,14 +1,14 @@
 <data>
     <items>
-        <item name="item1">item1abc</item>
-        <item name="item2">item2abc</item>
+        <item name="col1">value1a</item>
+        <item name="col2">value2a</item>
     </items>
     <items>
-        <item name="item1">item1abc</item>
-        <item name="item2">item2abc</item>
+        <item name="col1">value1b</item>
+        <item name="col2">value2b</item>
     </items>
     <items>
-        <item name="item1">item1abc</item>
-        <item name="item2">item2abc</item>
+        <item name="col1">value1c</item>
+        <item name="col2">value2c</item>
     </items>
 </data>
